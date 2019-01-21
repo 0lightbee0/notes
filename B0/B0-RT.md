@@ -1,12 +1,11 @@
 # B0-RT
 
-## asd
-
-    sadsfsdf
-
+##  sdf
 ```
-sdffasdfsdf
+type {
+	send()
+}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI3OTI5MThdfQ==
+eyJoaXN0b3J5IjpbMTE5NjE3MTExNF19
 -->
