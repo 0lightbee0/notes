@@ -1,6 +1,5 @@
 
-# 界面设计工具 Vront
-
+# B0-RT
 ## 目标
 + 发布静态多页面
 + 发布静态单页面
@@ -77,5 +76,5 @@
 ### 数据同步服务
 应用的基础服务，使用订阅和发布消息模型的实时服务
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM2NzQ5MDFdfQ==
+eyJoaXN0b3J5IjpbLTE5MjAyMjY2Ml19
 -->
