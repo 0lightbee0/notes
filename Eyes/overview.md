@@ -27,6 +27,7 @@
 ### 无障碍和适应性
 + outline
 + speak
++ key select
 
 ## 动画
 + 基于时间轴 全局模式 global mode
@@ -72,5 +73,5 @@
 ### 数据同步服务
 应用的基础服务，使用订阅和发布消息模型的实时服务
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTU3MjExMF19
+eyJoaXN0b3J5IjpbLTExMzQ2Njc5MjJdfQ==
 -->
