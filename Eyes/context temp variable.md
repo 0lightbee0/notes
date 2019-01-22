@@ -1,6 +1,6 @@
 ```
 People p = ("Jackie")
-{	case p.name
+{	$ p.name
 	"Jackie" {
 
 	}
@@ -21,5 +21,5 @@ People p = ("Jackie")
 print($) // nil
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzg4MTkyOF19
+eyJoaXN0b3J5IjpbNTAwMjg4Mjc0LC04MDM4ODE5MjhdfQ==
 -->
