@@ -3,14 +3,14 @@
 	"Jackie" {
 
 	}
-	!"Yumk" {
+	! "Yumk" {
 
 	}
-	!"Yumk" {
+	! in blacklist || "Sig mer" {
 
 	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDA5MTU1OV19
+eyJoaXN0b3J5IjpbLTEwMzEwNDU3ODZdfQ==
 -->
