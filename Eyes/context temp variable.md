@@ -11,9 +11,15 @@ People p = ("Jackie")
 
 	}
 	print($) // Jackie
+	{	case $[0]
+
+	}
+}
+{	case "Hello"
+	print($) // "Hello"
 }
 print($) // nil
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyMTA3MDcwXX0=
+eyJoaXN0b3J5IjpbLTgwMzg4MTkyOF19
 -->
