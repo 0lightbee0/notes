@@ -2,11 +2,17 @@
 .Carousel (
 	axis : row/col
 ) {
-	&.axis {
+	[ &.axis = row ] {
 
 	}
+
+	[ &.axis = col ] {
+
+	}
+
+	[
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjcyNTU0OF19
+eyJoaXN0b3J5IjpbNTAyMzQ2NTEyXX0=
 -->
