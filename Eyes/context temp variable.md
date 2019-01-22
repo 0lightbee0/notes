@@ -1,6 +1,6 @@
 ```
-people := People("Jackie")
-{	case people.name
+People p = ("Jackie")
+{	case p.name
 	"Jackie" {
 
 	}
@@ -10,9 +10,10 @@ people := People("Jackie")
 	! in blacklist || "Jhon Sigmer" {
 
 	}
-	print($) // p
+	print($) // Jackie
 }
+print($) // nil
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzEyMTcyMl19
+eyJoaXN0b3J5IjpbNjgyMTA3MDcwXX0=
 -->
