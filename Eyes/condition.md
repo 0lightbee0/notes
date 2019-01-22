@@ -1,10 +1,14 @@
 ```
 // range
 (a b),[a b],(a b],[a b)
-[ width:(1rem 3rem) | height:(] ] {
-
+[ width|height:(1rem 3rem] ] {
+	...
 }
+[ height:(1rem 3rem] ] {
+	...
+}
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Nzc5NjAwXX0=
+eyJoaXN0b3J5IjpbMTkzNDgxNjc1OV19
 -->
