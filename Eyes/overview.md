@@ -13,7 +13,6 @@
 ### 适应盒模型
 空白和适应内容
 + margin, padding
-+ 
 
 ### 文字排版
 + align(h:Align v:Align) 对齐方式
@@ -73,7 +72,7 @@
 ### 数据同步服务
 应用的基础服务，使用订阅和发布消息模型的实时服务
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTM3MDUwOCw1MjMzMjY3OSwtMzIxMT
-M1NjI4LC0xNTk0MjEwMzAyLC0xNzkzNzgxNzM4LC0xMTM0NjY3
-OTIyXX0=
+eyJoaXN0b3J5IjpbNDg3MjIzNTAxLDUyMzMyNjc5LC0zMjExMz
+U2MjgsLTE1OTQyMTAzMDIsLTE3OTM3ODE3MzgsLTExMzQ2Njc5
+MjJdfQ==
 -->
