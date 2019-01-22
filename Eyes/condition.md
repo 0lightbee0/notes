@@ -1,9 +1,8 @@
 ```
 // range
-[1rem,100%]
+(a b),[a b],(a b],[a b)
 
-[1rem,auto]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDM3Mjk5MjBdfQ==
+eyJoaXN0b3J5IjpbMzQwOTU1MzNdfQ==
 -->
