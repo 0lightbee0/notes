@@ -44,10 +44,12 @@
 + `.a.b` 状态
 
 ## 条件
-
++ `[]`
++ 
 
 ## 组件
 高内聚，强交互性以及粘合数据的元素集合
+
 ### 状态
 + 存储与恢复
 
@@ -75,7 +77,7 @@
 ### 数据同步服务
 应用的基础服务，使用订阅和发布消息模型的实时服务
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjkxMzg1MiwxNzI2OTEzODUyLDgwNz
+eyJoaXN0b3J5IjpbLTU1Mzk1NTk5MiwxNzI2OTEzODUyLDgwNz
 UzNjUwMSw1MjMzMjY3OSwtMzIxMTM1NjI4LC0xNTk0MjEwMzAy
 LC0xNzkzNzgxNzM4LC0xMTM0NjY3OTIyXX0=
 -->
