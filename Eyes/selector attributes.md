@@ -1,11 +1,12 @@
 ```
 .Carousel (
-	axis:[row/col]
-	
+	axis : row/col
 ) {
+	&.axis {
 
+	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODAwODY2NzVdfQ==
+eyJoaXN0b3J5IjpbLTg0MjcyNTU0OF19
 -->
