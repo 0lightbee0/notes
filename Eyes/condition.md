@@ -4,11 +4,11 @@
 [ width|height:(1rem 3rem] ] {
 	...
 }
-[ height:(1rem 3rem] ] {
+[ height:( sdf) ] {
 	...
 }
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDgxNjc1OV19
+eyJoaXN0b3J5IjpbOTQ5NzkwNjc4XX0=
 -->
