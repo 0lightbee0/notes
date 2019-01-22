@@ -10,9 +10,10 @@
 + border 边框
 + cursor 光标
 
-### 盒模型
+### 适应盒模型
 空白和适应内容
 + margin, padding
++ 
 
 ### 文字排版
 + align(h:Align v:Align) 对齐方式
@@ -22,10 +23,6 @@
 + family(Font.Family) 字体
 + weight(Distance) 粗细度
 + decoration(Font.Decoration) 装饰
-
-### 适应性
-+ screen
-+ 
 
 ### 无障碍和硬件适应
 + outline
@@ -76,6 +73,7 @@
 ### 数据同步服务
 应用的基础服务，使用订阅和发布消息模型的实时服务
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzMzI2NzksLTMyMTEzNTYyOCwtMTU5ND
-IxMDMwMiwtMTc5Mzc4MTczOCwtMTEzNDY2NzkyMl19
+eyJoaXN0b3J5IjpbLTQ2NTM3MDUwOCw1MjMzMjY3OSwtMzIxMT
+M1NjI4LC0xNTk0MjEwMzAyLC0xNzkzNzgxNzM4LC0xMTM0NjY3
+OTIyXX0=
 -->
