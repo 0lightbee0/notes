@@ -10,9 +10,17 @@
 
 	}
 
-	[
+	[	case &.axis
+		row  {
+			
+		}
+		
+		col {
+
+		}
+	]
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyMzQ2NTEyXX0=
+eyJoaXN0b3J5IjpbMTE0MTMzNTIyNl19
 -->
