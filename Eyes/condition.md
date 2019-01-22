@@ -5,12 +5,12 @@
 	...
 }
 // logic
-// > [0,), < 
+// > (N,), < (,N), >= [N,), <= (,N], = ()
 [ height: >2rem ] {
 	...
 }
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDM2MzE0OTZdfQ==
+eyJoaXN0b3J5IjpbLTEwMzI4NjE3NzddfQ==
 -->
