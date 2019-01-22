@@ -43,7 +43,8 @@
 + `a,b`
 + `.a.b` 状态
 
-## 
+## 条件
+
 
 ## 组件
 高内聚，强交互性以及粘合数据的元素集合
@@ -74,7 +75,7 @@
 ### 数据同步服务
 应用的基础服务，使用订阅和发布消息模型的实时服务
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3NTM2NTAxLDUyMzMyNjc5LC0zMjExMz
-U2MjgsLTE1OTQyMTAzMDIsLTE3OTM3ODE3MzgsLTExMzQ2Njc5
-MjJdfQ==
+eyJoaXN0b3J5IjpbMTcyNjkxMzg1Miw4MDc1MzY1MDEsNTIzMz
+I2NzksLTMyMTEzNTYyOCwtMTU5NDIxMDMwMiwtMTc5Mzc4MTcz
+OCwtMTEzNDY2NzkyMl19
 -->
